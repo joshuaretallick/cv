@@ -10,7 +10,7 @@ I am looking to take on a career in the tech scene of London or Essex where I ca
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[SOS App](https://github.com/joshuaretallick/SOS-Test)**            | An app that recognises the users location (worldwide) and tells them the mergency services number for their location plus directions to the nearest emergency services. | SwiftUI, Swift UIKit, XCode, Google Maps/Places, Core Location. |
+| **[SOS App](https://github.com/joshuaretallick/SOS-Test)**            | An app that recognises the users location (worldwide) and tells them the emergency services number for their location plus directions to the nearest emergency services. | SwiftUI, Swift UIKit, XCode, Google Maps/Places, Core Location. |
 | **[Dogbook](https://github.com/joshuaretallick/dogbook)** | A facebook style clone written on the Ruby On Rails framework that allows connections for man's best friend. | Ruby, Ruby On Rails, Capybara, RSpec. |
 | **[MakersBnB](https://github.com/joshuaretallick/makersbnb)** | My first entry in to app building via an AirBnB clone.  This is a pretty primitive example but I think it is important to include to compare how far my learning has come since I began coding. | Ruby, Sinatra, Capybara, RSpec. |
 
