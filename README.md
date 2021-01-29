@@ -14,6 +14,10 @@ I am looking to take on a career in the tech scene of London or Essex where I ca
 | **[Dogbook](https://github.com/joshuaretallick/dogbook)** | A facebook style clone written on the Ruby On Rails framework that allows connections for man's best friend. | Ruby, Ruby On Rails, Capybara, RSpec. |
 | **[MakersBnB](https://github.com/joshuaretallick/makersbnb)** | My first entry in to app building via an AirBnB clone.  This is a pretty primitive example but I think it is important to include to compare how far my learning has come since I began coding. | Ruby, Sinatra, Capybara, RSpec. |
 
+#### Process Review Example
+
+Over the past few months I have undertaken regular reviews of my problem solving process. You can see an example of the feedback I have received here: **[Review](https://www.dropbox.com/s/0tdcp531x5ysogz/2021-01-12-Orange%20Pidgeot%2069-feedback.pdf?dl=0)**
+
 #### Creative
 
 As a promoter I have learned to be creative in my problem-solving and try to look sideways when something seems intractable.
