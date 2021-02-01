@@ -1,10 +1,10 @@
 ## Joshua Retallick
 
-A highly driven and ambitious junior web developer with an extensive background in Event Management.
+A highly driven and ambitious junior web developer with an extensive background in Event Management.  
 
-I have recently graduated (Jan 21) from an intensive 12 week course at Makers Academy where I have grown from interested amateur coder into a competent and confident junior developer.
+I have recently graduated (Jan 21) from an intensive 12-week course at Makers Academy where I have grown from interested amateur coder into a competent and confident junior full-stack developer.  
 
-I am looking to take on a career in the tech scene of London or Essex where I can further expand my knowledge in Full-Stack and Front-End development and design.
+I am comfortable with getting to grips with completely new business domains and tech stacks and pride myself on the ability to ramp-up quickly and produce high quality software.
 
 ## Projects
 
@@ -38,13 +38,13 @@ Always comfortable finding my place in a team, whether that calls for knuckling 
 
 #### Makers Academy (Nov 2020 to Jan 2021)
 
-Object Orientated Principals, Test Driven Development, Model View Controller
+-	Object orientated principals & design
+-	Test driven development
+-	Languages: Ruby, JavaScript, JQuery, Swift, HTML5, CSS
+-	Web frameworks: Rails, Sinatra, SwiftUI, Swift UIKit
+-	Testing frameworks: Rspec, Jasmine, Capybara
+-	Databases: PostgreSQL, SQLite
 
-Agile/XP
-
-Ruby, Rails, Sinatra, JavaScript, Swift
-
-RSpec, Jasmine, Capybara
 
 
 #### Qualifications
