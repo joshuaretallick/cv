@@ -1,10 +1,6 @@
 ## Joshua Retallick
 
-A highly driven and ambitious junior web developer with an extensive background in Event Management.  
-
-I have recently graduated (Jan 21) from an intensive 12-week course at Makers Academy where I have grown from interested amateur coder into a competent and confident junior full-stack developer.  
-
-I am comfortable with getting to grips with completely new business domains and tech stacks and pride myself on the ability to ramp-up quickly and produce high quality software.
+A highly driven and ambitious junior web developer with an extensive background in Event Management.  Until recently I owned and operated a successful concert promotions business called Old Empire.  Due to the effects of COVID-19 and an industry that has been put on pause, I decided to reinvest in my education and joined Makers Academy so I could retool my skillset.  Having now graduated, I am looking to harness my broad range of skills in two very different industries with a brand new career path.
 
 ## Projects
 
@@ -49,21 +45,19 @@ Always comfortable finding my place in a team, whether that calls for knuckling 
 
 #### Qualifications
 
-Certificate, Social Media Marketing: Advanced | Media Training Ltd
+Graduate, Software & Coding Bootcamp | Makers Academy | 2021
 
-Certificate, Photoshop CC: Introduction | Media Training Ltd
+Certificate, Social Media Marketing: Advanced | Media Training Ltd | 2020
 
-Certificate, Facebook Marketing: Standard | Jellyfish Training Ltd
+Certificate, Artist Management | The School of Music Business Ltd | 2019
 
-Certificate, Artist Management | The School of Music Business Ltd
+Certificate, Photoshop CC: Introduction | Media Training Ltd | 2018
 
-Diploma, Sound Engineering | MAINZ, New Zealand
-
-Tier 5 Worker Sponsor (Certificate of Sponsorship)
+Certificate, Facebook Marketing: Standard | Jellyfish Training Ltd | 2018
 
 ## Hobbies
 
-I am passionate about live music. Along side my new found career in software development I also own a very successful events promotions company called Old Empire.  We have been established since 2014 and have carved out a formidable reputation in the UK music scene through promotion and high level production.
+I am passionate about live music. Along side my new found career in software development I also founded a very successful events promotions company called Old Empire.  We have been established since 2014 and have carved out a formidable reputation in the UK music scene through promotion and high level production.
 
 **[Old Empire](http://www.old-empire.co.uk/)**
 
