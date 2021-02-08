@@ -1,6 +1,6 @@
 ## Joshua Retallick
 
-A highly driven and ambitious junior web developer with an extensive background in Event Management.  Until recently I owned and operated a successful concert promotions business called Old Empire.  Due to the effects of COVID-19 and an industry that has been put on pause, I decided to reinvest in my education and joined Makers Academy so I could retool my skillset.  Having now graduated, I am looking to harness my broad range of skills in two very different industries with a brand new career path.
+A highly driven and ambitious junior web developer with an extensive background in Event Management.  Until recently I owned and operated a successful concert promotions business called Old Empire.  Due to the effects of COVID-19 and an industry that has been put on pause, I decided to reinvest in my education and joined Makers Academy so I could retool my skillset.  Having now graduated, I am looking to harness my broad range of skills from two very different industries with a brand new career path.
 
 ## Projects
 
