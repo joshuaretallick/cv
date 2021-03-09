@@ -7,6 +7,7 @@ A highly driven and ambitious junior web developer with an extensive background 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[SOS App](https://github.com/joshuaretallick/SOS-Test)**            | An app that recognises the users location (worldwide) and tells them the emergency services number for their location plus directions to the nearest emergency services. | SwiftUI, Swift UIKit, XCode, Google Maps/Places, Core Location. |
+| **[Dear Diary](https://github.com/joshuaretallick/dear-diary)**            | This blogging app has been created without generating any scaffolds or the usual Rails helpers. So all routes, models, views and controllers were manually coded by myself which has helped me really delve in to the magic beneath the hood. | Ruby, Ruby On Rails, Mini-Test, JQuery, Bootstrap, Popper, BCrypt. |
 | **[Dogbook](https://github.com/joshuaretallick/dogbook)** | A facebook style clone written on the Ruby On Rails framework that allows connections for man's best friend. | Ruby, Ruby On Rails, Capybara, RSpec. |
 | **[MakersBnB](https://github.com/joshuaretallick/makersbnb)** | My first entry in to app building via an AirBnB clone.  This is a pretty primitive example but I think it is important to include to compare how far my learning has come since I began coding. | Ruby, Sinatra, Capybara, RSpec. |
 
