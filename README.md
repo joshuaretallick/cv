@@ -1,6 +1,6 @@
 ## Joshua Retallick
 
-A highly driven and ambitious junior web developer with an extensive background in Event Management.  Until recently I owned and operated a successful concert promotions business called Old Empire.  Due to the effects of COVID-19 and an industry that has been put on pause, I decided to reinvest in my education and joined Makers Academy so I could retool my skillset.  Having now graduated, I am looking to harness my broad range of skills from two very different industries with a brand new career path.
+A highly driven and ambitious junior web developer with an extensive background in event management. I am the founder and owner of Old Empire, a successful and respected digital-first live music events company. While Covid-19 has put the events industry on pause, it has also presented an opportunity to reinvest in my education and long-standing interest in the technical space to launch a new career.
 
 ## Projects
 
@@ -36,13 +36,25 @@ Always comfortable finding my place in a team, whether that calls for knuckling 
 
 #### Makers Academy (Nov 2020 to Jan 2021)
 
--	Object orientated principals & design
--	Test driven development
--	Languages: Ruby, JavaScript, JQuery, Swift, HTML5, CSS
--	Web frameworks: Rails, Sinatra, SwiftUI, Swift UIKit
--	Testing frameworks: Rspec, Jasmine, Capybara
--	Databases: PostgreSQL, SQLite
-
+- Ruby, Ruby On Rails    
+- PostgreSQL, SQLite
+- SwiftUI & SwiftUIKit
+- JavaScript, jQuery & CoffeeScript
+- Sinatra
+- Test Driven Development with RSpec and Jasmine
+- Integration testing with Capybara
+- Version control with git and Github
+- HTML5, CSS, Bootstrap & Semantic UI
+- WebSockets & ActionCable
+- Agile values, principles and practices
+- Object orientated principals and design
+- Pair programming
+- User authentication and authorisation with BCrypt and Devise
+- Deployment to Heroku
+- CI/CD with Travis
+- Project Management
+- Google and Facebook Analytics
+- Adobe Photoshop   
 
 
 #### Qualifications
