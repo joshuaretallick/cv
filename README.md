@@ -1,6 +1,6 @@
 ## Joshua Retallick
 
-A highly driven and ambitious junior web developer with an extensive background in event management. I am the founder and owner of Old Empire, a successful and respected digital-first live music events company. While Covid-19 has put the events industry on pause, it has also presented an opportunity to reinvest in my education and long-standing interest in the technical space to launch a new career.
+A highly driven and ambitious junior web developer with an extensive background in event management. I am proud to have graduated in Jan 21 from a highly selective, intensive software development boot-camp.  Makers Academy prides itself on developing juniors of all backgrounds in to ambitious developers with a keen focus on craftsmanship and best practices at its core.   Here I was able to hone my technical and soft skills through communicative problem solving, test driven development and group projects that will help me to integrate seamlessly in to any team.  Prior to my newly found path I was the founder and owner of Old Empire, a successful and respected digital-first live music events company. While Covid-19 has put the events industry on pause, it has also presented an opportunity to reinvest in my education and long-standing interest in the technical space to launch a new career. 
 
 ## Projects
 
