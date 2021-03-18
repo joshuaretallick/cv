@@ -1,6 +1,6 @@
 ## Joshua Retallick
 
-A highly driven and ambitious junior web developer with an extensive background in event management. I am proud to have graduated in Jan 21 from a highly selective, intensive software development boot-camp.  Makers Academy prides itself on developing juniors of all backgrounds in to ambitious developers with a keen focus on craftsmanship and best practices at its core.   Here I was able to hone my technical and soft skills through communicative problem solving, test driven development and group projects that will help me to integrate seamlessly in to any team.  Prior to my newly found path I was the founder and owner of Old Empire, a successful and respected digital-first live music events company.  Since graduating I have begun working on personal coding projects and volunteering for Codebar, a charity that runs regular programming workshops for minority groups in tech. 
+A highly driven and ambitious junior web developer with an extensive background in event management. I am proud to have graduated in Jan 21 from a highly selective, intensive software development boot-camp.  Makers Academy prides itself on developing juniors of all backgrounds in to ambitious developers with a keen focus on craftsmanship and best practices at its core.   Here I was able to hone my technical and soft skills through communicative problem solving, test driven development and group projects that will help me to integrate seamlessly in to any team.  Prior to my newly found path I was the founder and owner of Old Empire, a successful and respected digital-first live music events company.  Since graduating I have begun working on personal coding projects and studying towards AWS Certification.
 
 ## Projects
 
@@ -31,10 +31,6 @@ I am highly motivated and unafraid of a challenge. I do not shy away from diffic
 #### Team-player
 
 Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
-
-## Volunteering
-
-Codebar is a charity that facilitates the growth of a diverse tech community by running free regular programming workshops for minority groups in tech.  Once a month for a few hours in the evening I tutor students and assist them through programming exercises.  Focusing on the fundamental elements of Ruby, JavaScript, HTML and Python.  This has in turn helped me build up my own confidence by being able to talk through my process in a clear manner.
 
 ## Education
 
